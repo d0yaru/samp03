@@ -1,0 +1,66 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:45] 
+[23:38:45] Server Plugins
+[23:38:45] --------------
+[23:38:45]  Loaded 0 plugins.
+
+[23:38:45] 
+[23:38:45] Filterscripts
+[23:38:45] ---------------
+[23:38:45]   Loading filterscript 'base.amx'...
+[23:38:45] 
+--Base FS loaded.
+
+[23:38:45]   Loading filterscript 'gl_actions.amx'...
+[23:38:45]   Loading filterscript 'gl_property.amx'...
+[23:38:45] 
+-----------------------------------
+[23:38:45] Grand Larceny Property Filterscript		
+[23:38:45] -----------------------------------
+
+[23:38:45]   Loading filterscript 'gl_realtime.amx'...
+[23:38:45]   Loaded 4 filterscripts.
+
+[23:38:45] Loaded 3 vehicles from: vehicles/trains.txt
+[23:38:45] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:38:45] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:38:45] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:38:45] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:38:45] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:38:45] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:38:45] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:38:45] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:38:45] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:38:45] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:38:45] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:38:45] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:38:45] Loaded 168 vehicles from: vehicles/bone.txt
+[23:38:45] Loaded 61 vehicles from: vehicles/flint.txt
+[23:38:45] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:38:45] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:38:45] Total vehicles from files: 1781
+[23:38:45] Reading File: blank
+[23:38:45] Reading File: properties/houses.txt
+[23:38:45] Reading File: properties/businesses.txt
+[23:38:45] Reading File: properties/banks.txt
+[23:38:45] Reading File: properties/police.txt
+[23:38:45] 
+---------------------------------------
+[23:38:45] Running Grand Larceny - by the SA-MP team
+
+[23:38:45] ---------------------------------------
+
+[23:38:45] Number of vehicle models: 173
+[23:50:18] [connection] 31.173.101.206:12008 requests connection cookie.
+[23:50:19] [connection] incoming connection: 31.173.101.206:12008 id: 0
+[23:50:19] [join] Dmitry has joined the server (0:31.173.101.206)
+[23:51:51] [part] Dmitry has left the server (0:1)
+[23:52:17] --- Server Shutting Down.
